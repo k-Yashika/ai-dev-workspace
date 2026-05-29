@@ -24,15 +24,15 @@ Planned:
 
 ## Main Workspace
 
-![Workspace UI](./assets/workspace-main.png)
+![Workspace UI](src/assets/workspace-main.jpeg)
 
 ## Architecture Analysis
 
-![Architecture Analysis](./assets/architecture-analysis.png)
+![Architecture Analysis](src/assets/architecture-analysis.jpeg)
 
 ## Data Flow + Recommendations
 
-![Data Flow Analysis](./assets/dataflow-analysis.png)
+![Data Flow Analysis](src/assets/dataflow-analysis.jpeg)
 
 ---
 
